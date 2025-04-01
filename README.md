@@ -1,5 +1,5 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Yabe12&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Yabe12)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeab-B&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yeab-B)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
   <table style="width: 100%; background-color: #f0f8ff; border-radius: 10px; border: none;">
             <!-- Social Badges -->
@@ -35,7 +35,7 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HZCGHZ
 
 | My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Yeabsira](https://github-readme-streak-stats.herokuapp.com/?user=Yabe12&theme=dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yabe12&show_icons=true&theme=dark&hide_title=true) |  ![Yeabsira Git Status](https://github-readme-stats.vercel.app/api?username=Yabe12&show_icons=true&theme=dark&hide_title=true&count_private=true) |
+| ![Yeabsira](https://github-readme-streak-stats.herokuapp.com/?user=yeab-B&theme=dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeab-B&show_icons=true&theme=dark&hide_title=true) |  ![Yeabsira Git Status](https://github-readme-stats.vercel.app/api?username=yeab-B&show_icons=true&theme=dark&hide_title=true&count_private=true) |
 </div>
 
 
@@ -51,7 +51,7 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HZCGHZ
  ## Activitys 📁
 
 ### Projects:
-- [![Kuraz Project](https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=kuraz-project-)](https://github.com/Yabe12/kuraz-project-.git)
-- [![Backend Business Directory](https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=BACKEND-BUSINESS-DIRECTORY)](https://github.com/Yabe12/BACKEND-BUSINESS-DIRECTORY.git)
-- [![Techtonic Constitution](https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=Techtonic-constitution)](https://github.com/Yabe12/Techtonic-constitution.git)
+- [![Kuraz Project](https://github-readme-stats.vercel.app/api/pin/?username=yeab-B&theme=react&repo=kuraz-project-)](https://github.com/yeab-B/kuraz-project-.git)
+- [![Backend Business Directory](https://github-readme-stats.vercel.app/api/pin/?username=yeab-B&theme=react&repo=BACKEND-BUSINESS-DIRECTORY)](https://github.com/yeab-B/BACKEND-BUSINESS-DIRECTORY.git)
+- [![Techtonic Constitution](https://github-readme-stats.vercel.app/api/pin/?username=yeab-B&theme=react&repo=Techtonic-constitution)](https://github.com/yeab-B/Techtonic-constitution.git)
 
