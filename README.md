@@ -66,8 +66,8 @@ Want to know more? Check out my [resume](https://drive.google.com/file/d/1HZCGHZ
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height="64" style="border-radius: 50%;"> &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="64" style="border-radius: 50%;"> &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="64" style="border-radius: 50%;"> &nbsp;
-  <img src="https://imgs.search.brave.com/17L-z3KHyIN5mlINlO7ex1vLWFkVkg_fS6lCnRxCpNw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2F0ay5kZXYvc3Rh/dGljLzg2ZjJmNDhi/OWIwZGQ5MDBiNDg5/MmY0OWY0YmJhYjgx/L2U0ZjA2L2xvZ28u/cG5n" height="64" style="border-radius: 50%;"> &nbsp;
-  <img src="https://imgs.search.brave.com/96khqNZO1LJt_e6RG-xNXrYl-d0TcMaaPpXmcY3nm3g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RfdmVy/Y2VsMTg2OC5qcGc" height="64" style="border-radius: 50%;"> &nbsp;
+<!--   <img src="https://imgs.search.brave.com/17L-z3KHyIN5mlINlO7ex1vLWFkVkg_fS6lCnRxCpNw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/a2F0ay5kZXYvc3Rh/dGljLzg2ZjJmNDhi/OWIwZGQ5MDBiNDg5/MmY0OWY0YmJhYjgx/L2U0ZjA2L2xvZ28u/cG5n" height="64" style="border-radius: 50%;"> &nbsp; -->
+<!--   <img src="https://imgs.search.brave.com/96khqNZO1LJt_e6RG-xNXrYl-d0TcMaaPpXmcY3nm3g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RfdmVy/Y2VsMTg2OC5qcGc" height="64" style="border-radius: 50%;"> &nbsp; -->
   <img src="https://imgs.search.brave.com/TMj7RdxJPIsmJC9KaGH1M_YwCRg1rd4bHDWzJsqFIy4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9nZXRk/ZXBsb3lpbmcuY29t/L3N0YXRpYy9pbWcv/bG9nb3MvaGVyb2t1/LjBkMzUyNTgwYjU2/Mi5wbmc" height="64" style="border-radius: 50%;"> &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="64" style="border-radius: 50%;">
 </p>
